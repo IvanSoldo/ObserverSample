@@ -1,6 +1,6 @@
 <?php
 
-namespace Inchoo\EventsObservers\Observer\Product;
+namespace Inchoo\EventsObservers\Observer;
 
 use Magento\Framework\Event\Observer;
 use Magento\Framework\Event\ObserverInterface;
