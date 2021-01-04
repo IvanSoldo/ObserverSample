@@ -6,7 +6,7 @@ use Magento\Framework\Event\Observer;
 use Magento\Framework\Event\ObserverInterface;
 use Psr\Log\LoggerInterface;
 
-class Data implements ObserverInterface
+class ProductLoggerObserver implements ObserverInterface
 {
 
     private $logger;
